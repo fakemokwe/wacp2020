@@ -1,14 +1,5 @@
-# A Blank PhoneGap App
+# WACP 2020 AGSM Website
 
-## Usage
+## Full desktop site
 
-### PhoneGap CLI
-
-    $ phonegap create my-app --template blank
-
-### Desktop
-
-In your browser, open the file:
-
-    /www/index.html
-
+### Enigma
